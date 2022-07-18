@@ -1,10 +1,11 @@
 # React Todo App
+[![Netlify Status](https://api.netlify.com/api/v1/badges/154de453-8728-42cc-bd69-a4239490f395/deploy-status)](https://app.netlify.com/sites/admirable-meerkat-5a1130/deploys)
 
 A minimalistic, customisable todo app.
 
 ## Demo
 
-- Demo hosted on Netlify: 
+- Demo hosted on Netlify:  https://react-todo-app-avijit.netlify.app/
 ## Features
 
 - Dark mode
